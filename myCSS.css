@@ -2,14 +2,14 @@
 /* This is a comment! Text here will be ignored by the browser. */
 
 .homePage {
-	background: ##DB3F18;
+	background: #DB3F18;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #DC2606;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -19,7 +19,7 @@
 	
 }
 .nav {
-	background: ##DB9D18;
+	background: #DB9D18;
 	margin: 0px;
 	padding: 5;
 	float: left;
